@@ -2,6 +2,8 @@
 
 A collection of GitHub best practices
 
+#### Public repositories
+
 ```
 Insights → Dependency graph → Enable the dependency graph
 Settings → Advanced Security → Dependenct graph
