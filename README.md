@@ -10,3 +10,7 @@ Settings → Advanced Security → Dependenct graph
 
 Settings → Advanced Security → Code scanning → CodeQL analysis → Enable CodeQL
 ```
+
+#### Copilot
+
+* Use Copilot to generate the initial CI pipeline structure
