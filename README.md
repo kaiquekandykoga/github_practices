@@ -2,7 +2,7 @@
 
 A collection of GitHub best practices
 
-#### Public repositories
+#### Initial setup and configuration for public repositories
 
 ```
 Insights → Dependency graph → Enable the dependency graph
