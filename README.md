@@ -14,3 +14,4 @@ Settings → Advanced Security → Code scanning → CodeQL analysis → Enable 
 #### Copilot
 
 * Use Copilot to generate the initial CI pipeline structure
+* Ask Copilot to identify issues in the CI pipeline
